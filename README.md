@@ -10,8 +10,13 @@
 課程教材 | https://github.com/ccc113a/py2cs <br/> https://www.hello-algo.com/
 
 習題1: 用Claude3.5
+
 習題2: 用Copilot
+
 習題3: 手算
+
 習題4: 用Claude3.5
+
 習題5: 用gemini advanced
+
 習題6: 用Chatgpt4o
